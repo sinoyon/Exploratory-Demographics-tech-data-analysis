@@ -5,3 +5,5 @@ EDA for Demographics & technologies normalised Dataset</br></br>
 </br></br>
 This analysis about collected developer information Demographics & technologies normalised data there are personal enquiry of the survey person and his/her opinions including social media, age, gender, dependents and so on And where it is shown that the technology in the computer science field and its demand in the upcoming year.
 
+
+
